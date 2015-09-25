@@ -28,11 +28,11 @@
     "d3-time-format": "latest",
     "topojson": "^1.6.19",
     "request": "^2.60.0",
-    "sync-request": "^2.0.1"
+    "sync-request": "^2.0.1",
+    "browserify-versionify": "^1.0.4"
   },
   "devDependencies": {
     "browserify": "^10.2.6",
-    "browserify-versionify": "^1.0.4",
     "chai": "^3.0.0",
     "istanbul": "latest",
     "jshint": "^2.8.0",
